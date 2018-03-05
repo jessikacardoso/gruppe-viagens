@@ -49,8 +49,13 @@ header div{
     text-align: center;
     display: block;
     height: 500px;
-   
-    
+}
+
+header a{
+    padding: 10px 30px;
+    background-color: rgb(207, 195, 86);
+    text-decoration: none;
+    color: white;
 }
 
 
