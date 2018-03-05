@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: 'Asap', sans-serif;
+    max-width: 1400px;
+
+}
+nav{
+    
+
+ 
+ 
+  
+}
+
+ li{
+    display: inline;
+    padding: 10px;
+    font-weight: 200;
+
+}
+nav div{
+    display: flex;
+}
+
+/* nav{
+    display: flex;
+    justify-content: space-around;
+    background:url(../img/bg-banner.png);
+    min-height: 100vh;
+    background-size: cover;
+    padding: 10px;
+    position: fixed;
+    
+
+} */
+
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+/* ------------------------------------------HEADER  */
+
+header h1{
+    font-family: 'Flamenco', cursive;
+}
+
+header div{
+    text-align: center;
+    display: block;
+    height: 500px;
+   
+    
+}
+
+
+
+
+
+
